@@ -3,3 +3,5 @@
 IndexedArray=(egg burger milk)
 
 for i in "${IndexedArray[@]}";do echo "$i";done
+
+echo "Test change"
